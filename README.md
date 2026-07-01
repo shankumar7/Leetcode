@@ -21,6 +21,7 @@ A collection of LeetCode questions that i solved
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shankumar7/Leetcode/tree/master/0002-add-two-numbers) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shankumar7/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -48,4 +49,9 @@ A collection of LeetCode questions that i solved
 | ------- |
 | [0027-remove-element](https://github.com/shankumar7/Leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/shankumar7/Leetcode/tree/master/0283-move-zeroes) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shankumar7/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shankumar7/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->

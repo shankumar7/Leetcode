@@ -14,6 +14,7 @@ A collection of LeetCode questions that i solved
 | [1732-find-the-highest-altitude](https://github.com/shankumar7/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/shankumar7/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/shankumar7/Leetcode/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shankumar7/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shankumar7/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shankumar7/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shankumar7/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -123,10 +124,12 @@ A collection of LeetCode questions that i solved
 | [0217-contains-duplicate](https://github.com/shankumar7/Leetcode/tree/master/0217-contains-duplicate) |
 | [1833-maximum-ice-cream-bars](https://github.com/shankumar7/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/shankumar7/Leetcode/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shankumar7/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Greedy
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/shankumar7/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shankumar7/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting Sort
 |  |
 | ------- |

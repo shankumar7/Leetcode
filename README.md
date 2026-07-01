@@ -26,6 +26,7 @@ A collection of LeetCode questions that i solved
 | [0217-contains-duplicate](https://github.com/shankumar7/Leetcode/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/shankumar7/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shankumar7/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/shankumar7/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/shankumar7/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions that i solved
 | [1189-maximum-number-of-balloons](https://github.com/shankumar7/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/shankumar7/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/shankumar7/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/shankumar7/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Prefix Sum
 |  |
 | ------- |

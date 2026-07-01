@@ -24,6 +24,7 @@ A collection of LeetCode questions that i solved
 | [0001-two-sum](https://github.com/shankumar7/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/shankumar7/Leetcode/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/shankumar7/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [3945-digit-frequency-score](https://github.com/shankumar7/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions that i solved
 | [1840-maximum-building-height](https://github.com/shankumar7/Leetcode/tree/master/1840-maximum-building-height) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shankumar7/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shankumar7/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3945-digit-frequency-score](https://github.com/shankumar7/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
 | ------- |

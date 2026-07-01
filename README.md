@@ -48,6 +48,7 @@ A collection of LeetCode questions that i solved
 | ------- |
 | [0258-add-digits](https://github.com/shankumar7/Leetcode/tree/master/0258-add-digits) |
 | [3612-process-string-with-special-operations-i](https://github.com/shankumar7/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/shankumar7/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/shankumar7/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -68,4 +69,5 @@ A collection of LeetCode questions that i solved
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/shankumar7/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/shankumar7/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 <!---LeetCode Topics End-->

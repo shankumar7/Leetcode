@@ -9,6 +9,7 @@ A collection of LeetCode questions that i solved
 | [0001-two-sum](https://github.com/shankumar7/Leetcode/tree/master/0001-two-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shankumar7/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shankumar7/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/shankumar7/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of LeetCode questions that i solved
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shankumar7/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/shankumar7/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->

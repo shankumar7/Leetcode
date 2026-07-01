@@ -7,6 +7,7 @@ A collection of LeetCode questions that i solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shankumar7/Leetcode/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/shankumar7/Leetcode/tree/master/0283-move-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/shankumar7/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shankumar7/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shankumar7/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -41,4 +42,8 @@ A collection of LeetCode questions that i solved
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/shankumar7/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/shankumar7/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->

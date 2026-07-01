@@ -28,6 +28,7 @@ A collection of LeetCode questions that i solved
 | ------- |
 | [0002-add-two-numbers](https://github.com/shankumar7/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shankumar7/Leetcode/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/shankumar7/Leetcode/tree/master/0258-add-digits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shankumar7/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Recursion
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions that i solved
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shankumar7/Leetcode/tree/master/0258-add-digits) |
 | [3925-concatenate-array-with-reverse](https://github.com/shankumar7/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions that i solved
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shankumar7/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shankumar7/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

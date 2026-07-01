@@ -26,6 +26,7 @@ A collection of LeetCode questions that i solved
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shankumar7/Leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/shankumar7/Leetcode/tree/master/0009-palindrome-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shankumar7/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Recursion
 |  |

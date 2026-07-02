@@ -49,6 +49,7 @@ A collection of LeetCode questions that i solved
 | [0412-fizz-buzz](https://github.com/shankumar7/Leetcode/tree/master/0412-fizz-buzz) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shankumar7/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/shankumar7/Leetcode/tree/master/1840-maximum-building-height) |
+| [2769-find-the-maximum-achievable-number](https://github.com/shankumar7/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/shankumar7/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shankumar7/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shankumar7/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |

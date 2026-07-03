@@ -32,6 +32,7 @@ A collection of LeetCode questions that i solved
 | [0001-two-sum](https://github.com/shankumar7/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/shankumar7/Leetcode/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/shankumar7/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shankumar7/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3668-restore-finishing-order](https://github.com/shankumar7/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shankumar7/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shankumar7/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions that i solved
 | ------- |
 | [0412-fizz-buzz](https://github.com/shankumar7/Leetcode/tree/master/0412-fizz-buzz) |
 | [1189-maximum-number-of-balloons](https://github.com/shankumar7/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shankumar7/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shankumar7/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shankumar7/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/shankumar7/Leetcode/tree/master/3110-score-of-a-string) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions that i solved
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shankumar7/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shankumar7/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->

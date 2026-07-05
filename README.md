@@ -58,6 +58,7 @@ A collection of LeetCode questions that i solved
 | [0412-fizz-buzz](https://github.com/shankumar7/Leetcode/tree/master/0412-fizz-buzz) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shankumar7/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/shankumar7/Leetcode/tree/master/1840-maximum-building-height) |
+| [2396-strictly-palindromic-number](https://github.com/shankumar7/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/shankumar7/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/shankumar7/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/shankumar7/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions that i solved
 | [0283-move-zeroes](https://github.com/shankumar7/Leetcode/tree/master/0283-move-zeroes) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shankumar7/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shankumar7/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/shankumar7/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Stack
 |  |
 | ------- |
@@ -210,4 +212,8 @@ A collection of LeetCode questions that i solved
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shankumar7/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/shankumar7/Leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->

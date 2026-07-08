@@ -68,6 +68,7 @@ A collection of LeetCode questions that i solved
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shankumar7/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shankumar7/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shankumar7/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shankumar7/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shankumar7/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/shankumar7/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Recursion
@@ -129,6 +130,7 @@ A collection of LeetCode questions that i solved
 | [3110-score-of-a-string](https://github.com/shankumar7/Leetcode/tree/master/3110-score-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/shankumar7/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/shankumar7/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shankumar7/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shankumar7/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/shankumar7/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
@@ -138,6 +140,7 @@ A collection of LeetCode questions that i solved
 | [3699-number-of-zigzag-arrays-i](https://github.com/shankumar7/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shankumar7/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shankumar7/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shankumar7/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
 | ------- |

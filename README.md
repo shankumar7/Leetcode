@@ -67,6 +67,7 @@ A collection of LeetCode questions that i solved
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shankumar7/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shankumar7/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shankumar7/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shankumar7/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shankumar7/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/shankumar7/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Recursion

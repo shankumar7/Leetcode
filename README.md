@@ -26,6 +26,7 @@ A collection of LeetCode questions that i solved
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shankumar7/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shankumar7/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shankumar7/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shankumar7/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shankumar7/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3668-restore-finishing-order](https://github.com/shankumar7/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shankumar7/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions that i solved
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shankumar7/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shankumar7/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shankumar7/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shankumar7/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shankumar7/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shankumar7/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
@@ -113,6 +115,7 @@ A collection of LeetCode questions that i solved
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shankumar7/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shankumar7/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/shankumar7/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shankumar7/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions that i solved
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shankumar7/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shankumar7/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shankumar7/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shankumar7/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -176,11 +180,13 @@ A collection of LeetCode questions that i solved
 | [1833-maximum-ice-cream-bars](https://github.com/shankumar7/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/shankumar7/Leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shankumar7/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shankumar7/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/shankumar7/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shankumar7/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shankumar7/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -191,6 +197,7 @@ A collection of LeetCode questions that i solved
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/shankumar7/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shankumar7/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shankumar7/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shankumar7/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shankumar7/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -230,4 +237,8 @@ A collection of LeetCode questions that i solved
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/shankumar7/Leetcode/tree/master/2396-strictly-palindromic-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shankumar7/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->

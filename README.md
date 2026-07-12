@@ -12,6 +12,7 @@ A collection of LeetCode questions that i solved
 | [0283-move-zeroes](https://github.com/shankumar7/Leetcode/tree/master/0283-move-zeroes) |
 | [1288-remove-covered-intervals](https://github.com/shankumar7/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/shankumar7/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/shankumar7/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1672-richest-customer-wealth](https://github.com/shankumar7/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/shankumar7/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/shankumar7/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions that i solved
 | [0001-two-sum](https://github.com/shankumar7/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/shankumar7/Leetcode/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/shankumar7/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/shankumar7/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shankumar7/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shankumar7/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3668-restore-finishing-order](https://github.com/shankumar7/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions that i solved
 | ------- |
 | [0217-contains-duplicate](https://github.com/shankumar7/Leetcode/tree/master/0217-contains-duplicate) |
 | [1288-remove-covered-intervals](https://github.com/shankumar7/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/shankumar7/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/shankumar7/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/shankumar7/Leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shankumar7/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |

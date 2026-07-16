@@ -8,6 +8,7 @@ A collection of LeetCode questions that i solved
 | ------- |
 | [0001-two-sum](https://github.com/shankumar7/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/shankumar7/Leetcode/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shankumar7/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/shankumar7/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shankumar7/Leetcode/tree/master/0283-move-zeroes) |
 | [1288-remove-covered-intervals](https://github.com/shankumar7/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions that i solved
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/shankumar7/Leetcode/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shankumar7/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shankumar7/Leetcode/tree/master/0283-move-zeroes) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shankumar7/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shankumar7/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions that i solved
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shankumar7/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shankumar7/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shankumar7/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shankumar7/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |

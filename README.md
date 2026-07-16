@@ -7,6 +7,7 @@ A collection of LeetCode questions that i solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shankumar7/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/shankumar7/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/shankumar7/Leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shankumar7/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/shankumar7/Leetcode/tree/master/0217-contains-duplicate) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions that i solved
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shankumar7/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/shankumar7/Leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shankumar7/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shankumar7/Leetcode/tree/master/0283-move-zeroes) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions that i solved
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shankumar7/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/shankumar7/Leetcode/tree/master/0217-contains-duplicate) |
 | [1288-remove-covered-intervals](https://github.com/shankumar7/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shankumar7/Leetcode/tree/master/1331-rank-transform-of-an-array) |

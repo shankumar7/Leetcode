@@ -11,6 +11,7 @@ A collection of LeetCode questions that i solved
 | [0016-3sum-closest](https://github.com/shankumar7/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shankumar7/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shankumar7/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/shankumar7/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shankumar7/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shankumar7/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/shankumar7/Leetcode/tree/master/0217-contains-duplicate) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions that i solved
 | [0016-3sum-closest](https://github.com/shankumar7/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shankumar7/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shankumar7/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/shankumar7/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shankumar7/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shankumar7/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shankumar7/Leetcode/tree/master/0283-move-zeroes) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions that i solved
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shankumar7/Leetcode/tree/master/0042-trapping-rain-water) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shankumar7/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Number Theory
 |  |
@@ -223,6 +226,7 @@ A collection of LeetCode questions that i solved
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shankumar7/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1301-number-of-paths-with-max-score](https://github.com/shankumar7/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shankumar7/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shankumar7/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -273,4 +277,8 @@ A collection of LeetCode questions that i solved
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/shankumar7/Leetcode/tree/master/1291-sequential-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shankumar7/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

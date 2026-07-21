@@ -169,6 +169,7 @@ A collection of LeetCode questions that i solved
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shankumar7/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shankumar7/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/shankumar7/Leetcode/tree/master/3110-score-of-a-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/shankumar7/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/shankumar7/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/shankumar7/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shankumar7/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions that i solved
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/shankumar7/Leetcode/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/shankumar7/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Monotonic Stack
 |  |
 | ------- |

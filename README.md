@@ -39,6 +39,7 @@ A collection of LeetCode questions that i solved
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shankumar7/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shankumar7/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3668-restore-finishing-order](https://github.com/shankumar7/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/shankumar7/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shankumar7/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shankumar7/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/shankumar7/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions that i solved
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shankumar7/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3612-process-string-with-special-operations-i](https://github.com/shankumar7/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/shankumar7/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
+| [3701-compute-alternating-sum](https://github.com/shankumar7/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/shankumar7/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shankumar7/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/shankumar7/Leetcode/tree/master/3925-concatenate-array-with-reverse) |

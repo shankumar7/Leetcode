@@ -16,6 +16,7 @@ A collection of LeetCode questions that i solved
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shankumar7/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/shankumar7/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shankumar7/Leetcode/tree/master/0283-move-zeroes) |
+| [0877-stone-game](https://github.com/shankumar7/Leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/shankumar7/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/shankumar7/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/shankumar7/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions that i solved
 | [0009-palindrome-number](https://github.com/shankumar7/Leetcode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/shankumar7/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shankumar7/Leetcode/tree/master/0412-fizz-buzz) |
+| [0877-stone-game](https://github.com/shankumar7/Leetcode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shankumar7/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/shankumar7/Leetcode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shankumar7/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions that i solved
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shankumar7/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0877-stone-game](https://github.com/shankumar7/Leetcode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/shankumar7/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shankumar7/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shankumar7/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -317,4 +320,8 @@ A collection of LeetCode questions that i solved
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/shankumar7/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shankumar7/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shankumar7/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

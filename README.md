@@ -54,6 +54,7 @@ A collection of LeetCode questions that i solved
 | ------- |
 | [0001-two-sum](https://github.com/shankumar7/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/shankumar7/Leetcode/tree/master/0217-contains-duplicate) |
+| [0451-sort-characters-by-frequency](https://github.com/shankumar7/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/shankumar7/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/shankumar7/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shankumar7/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions that i solved
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/shankumar7/Leetcode/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/shankumar7/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shankumar7/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/shankumar7/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shankumar7/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions that i solved
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shankumar7/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shankumar7/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shankumar7/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/shankumar7/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions that i solved
 | [0015-3sum](https://github.com/shankumar7/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shankumar7/Leetcode/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/shankumar7/Leetcode/tree/master/0217-contains-duplicate) |
+| [0451-sort-characters-by-frequency](https://github.com/shankumar7/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1288-remove-covered-intervals](https://github.com/shankumar7/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shankumar7/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shankumar7/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -252,6 +256,7 @@ A collection of LeetCode questions that i solved
 ## Counting Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shankumar7/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/shankumar7/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/shankumar7/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shankumar7/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -332,4 +337,8 @@ A collection of LeetCode questions that i solved
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shankumar7/Leetcode/tree/master/0155-min-stack) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shankumar7/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->

@@ -156,6 +156,7 @@ A collection of LeetCode questions that i solved
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shankumar7/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/shankumar7/Leetcode/tree/master/0155-min-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shankumar7/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shankumar7/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Number Theory
@@ -324,4 +325,8 @@ A collection of LeetCode questions that i solved
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/shankumar7/Leetcode/tree/master/0877-stone-game) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/shankumar7/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

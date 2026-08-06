@@ -17,6 +17,7 @@ A collection of LeetCode questions that i solved
 | [0217-contains-duplicate](https://github.com/shankumar7/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shankumar7/Leetcode/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/shankumar7/Leetcode/tree/master/0877-stone-game) |
+| [1200-minimum-absolute-difference](https://github.com/shankumar7/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/shankumar7/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/shankumar7/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/shankumar7/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions that i solved
 | [0016-3sum-closest](https://github.com/shankumar7/Leetcode/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/shankumar7/Leetcode/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/shankumar7/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1200-minimum-absolute-difference](https://github.com/shankumar7/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/shankumar7/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shankumar7/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shankumar7/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
